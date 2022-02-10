@@ -8,4 +8,9 @@ public class GitTestScript : MonoBehaviour
     {
         Debug.Log("TEST 5");
     }
+
+    void Update()
+    {
+        
+    }
 }
