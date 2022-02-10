@@ -6,6 +6,6 @@ public class GitTestScript : MonoBehaviour
 {
     void Start()
     {
-        Debug.Log("TEST 5");
+        Debug.Log("TEST 6");
     }
 }
