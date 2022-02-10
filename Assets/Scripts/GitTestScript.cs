@@ -4,13 +4,4 @@ using UnityEngine;
 
 public class GitTestScript : MonoBehaviour
 {
-    void Start()
-    {
-        Debug.Log("TEST 6");
-    }
-
-    void Update()
-    {
-        
-    }
 }
